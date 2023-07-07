@@ -1,2 +1,2 @@
-#!/bin/bash/ > 7-everybody
-echo 777/
+#!/bin/bash
+chmod 777 hello
