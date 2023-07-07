@@ -1,2 +1,0 @@
-#!/bin/bash
-mkdir my_dir chmod u=rwX,g=X,o=X
